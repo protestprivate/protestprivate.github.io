@@ -85,4 +85,4 @@ On a similar note, turn off your WiFi before attending a protest. If your phone 
 
 I won't pretend that this guide is comprehensive, rather it tries to communicate what you should know quickly and simply so you can follow up with your own research. This must be supplemented by research and careful planning, as everyone's situation and risks are different. All this tries to accomplish is arming you with the right knowledge to start to protect yourself from invasive surveilance.
 
-Also, this guide is [open source](https://github.com/protectyourtech/protectyourtech.github.io), so you can fix any inaccuracies you find in here.
+Also, this guide is [open source](https://github.com/protestprivate/protestprivate.github.io), so you can fix any inaccuracies you find in here.
